@@ -16,12 +16,10 @@ The focus is on evaluating whether a shift toward plant‑based products is econ
 🔍 Key Analyses
 
 + Demand modelling for plant‑based burgers
-+ Survey data integration → demand uplift assumptions
++ Survey data
 + Price elasticity and substitution effects
 + Scenario comparison: Current model, Hybrid model, Fully plant‑based model
-+ Labour satisfaction vs productivity proxy
 + Cost–volume–profit analysis
-
 
 🧠 Methods
 + Regression models 
