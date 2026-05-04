@@ -1,4 +1,4 @@
-🍔 #EinoBurger
+## 🍔 EinoBurger
 
 EinoBurger is a fictional fast‑food chain used as a strategic analytics case.
 The focus is on evaluating whether a shift toward plant‑based products is economically and operationally viable.
